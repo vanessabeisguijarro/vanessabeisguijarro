@@ -6,7 +6,7 @@
 
 ## 🚀 Proyectos destacados
 
-🔹 [Web de Segundo Rey](https://github.com/usuario/segundo-rey)  
+🔹 [Web de Segundo Rey](https://github.com/vanessabguijarro/segundo-rey-demo)  
 Desarrollo completo de la web para una marca local. HTML/CSS + JS + conexión a base de datos.
 
 🔹 [App de salud] (entorno de prácticas en Balidea) 
