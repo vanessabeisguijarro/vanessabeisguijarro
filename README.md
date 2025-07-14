@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Vanessa
 
-<!--
-**vanessabeisguijarro/vanessabeisguijarro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Desarrollo de Aplicaciones Web (DAW)  
+💻 Apasionada del desarrollo web full-stack  
+🧰 Tecnologías que uso: HTML · CSS · JavaScript · Typescript · Java · SQL · Git · React · Node.js  
 
-Here are some ideas to get you started:
+## 🚀 Proyectos destacados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 [Web de Segundo Rey](https://github.com/usuario/segundo-rey)  
+Desarrollo completo de la web para una marca local. HTML/CSS + JS + conexión a base de datos.
+
+🔹 [App de salud] (entorno de prácticas en Balidea) 
+Colaboración en tareas reales de migración, atención a incidencias hospitalarias, y mantenimiento en Java + SQL.
+
+🔹 [MiniCMR]
+
+## 📫 Contacto
+- ✉️ vanebeis80@gmail.com
+- 💼 www.linkedin.com/in/vanessa-beis-guijarro
