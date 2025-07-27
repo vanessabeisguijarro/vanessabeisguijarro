@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Vanessa
 
-🎓 Estudiante de **Desarrollo de Aplicaciones Web (DAW)**  
+🎓 Próximamente titulada en **Desarrollo de Aplicaciones Web (DAW)**  
 💻 Apasionada del desarrollo **web full-stack**  
 🧰 Tecnologías que uso:  
 **HTML · CSS · JavaScript · TypeScript · Java · SQL · Git · React · Node.js**
