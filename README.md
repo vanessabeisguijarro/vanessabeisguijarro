@@ -2,6 +2,14 @@
 
 🎓 Próximamente titulada en **Desarrollo de Aplicaciones Web (DAW)**  
 💻 Apasionada del desarrollo **web full-stack**  
+
+# 👩‍💻 Vanessa Beis – Portfolio Web
+
+Este repositorio contiene mi portfolio personal de desarrollo web.
+
+🚀 Puedes verlo en vivo aquí:  
+👉 [https://vanessabguijarro.github.io](https://vanessabguijarro.github.io)
+
 🧰 Tecnologías que uso:  
 **HTML · CSS · JavaScript · TypeScript · Java · SQL · Git · React · Node.js**
 
